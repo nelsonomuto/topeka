@@ -1,0 +1,30 @@
+{
+  "name": "topeka",
+  "version": "0.1.0",
+  "description": "polymer based material design sample",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nelsonomuto/topeka.git"
+  },
+  "keywords": [
+    "polymer",
+    "material",
+    "design",
+    "nelson",
+    "omuto"
+  ],
+  "author": "Nelson Omuto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonomuto/topeka/issues"
+  },
+  "homepage": "https://github.com/nelsonomuto/topeka",
+  "devDependencies": {
+    "express": "^4.9.5",
+    "gulp": "^3.8.8"
+  }
+}
