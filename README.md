@@ -19,5 +19,6 @@ This is the best way to not be broken. The Polymer team doesn't use bower in day
 ### Bower
 
   1. Checkout topeka
-  1. Make sure you have `npm` and `bower` [installed](http://bower.io/) installed.
-  1. `cd topeka` and `bower install`
+  2. Make sure you have `npm` and `bower` [installed](http://bower.io/) installed.
+  3. `cd topeka`, `bower install`, 'npm install'
+  4. `gulp` an express server listening at port 9201 on localhost
